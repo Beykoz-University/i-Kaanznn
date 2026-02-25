@@ -11,6 +11,7 @@ public class Main {
 
         StudentName simple = new StudentName();
 
+
         simple.printNames(student1, student2);
 
     }
